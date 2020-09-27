@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N00bIntroToML", "N00bIntroToML\N00bIntroToML.csproj", "{F79B38DD-3604-4CA6-80D6-6049E36488D7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreProcessing", "PreProcessing\PreProcessing.csproj", "{2EB78EDF-ABC3-4CCE-9AFA-802069EF224D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N00bIntroToMLML.ConsoleApp", "N00bIntroToMLML.ConsoleApp\N00bIntroToMLML.ConsoleApp.csproj", "{DEA75FCA-DD2C-4860-AA7C-0DBCB234FC37}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F79B38DD-3604-4CA6-80D6-6049E36488D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F79B38DD-3604-4CA6-80D6-6049E36488D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F79B38DD-3604-4CA6-80D6-6049E36488D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F79B38DD-3604-4CA6-80D6-6049E36488D7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2EB78EDF-ABC3-4CCE-9AFA-802069EF224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2EB78EDF-ABC3-4CCE-9AFA-802069EF224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB78EDF-ABC3-4CCE-9AFA-802069EF224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
